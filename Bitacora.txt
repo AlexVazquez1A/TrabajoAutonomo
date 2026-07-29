@@ -11,3 +11,10 @@ Version 1.1
 Fecha 29/07/2026
 
 ** Se agrego una nueva entrada a la Bitacora, para el registro.
+
+
+Versión 1.2
+Fecha:: 29/07/2026	
+
+Se realizaron cambios en la mara Desarrollo, para continuar con la evolución del docuemto.
+
