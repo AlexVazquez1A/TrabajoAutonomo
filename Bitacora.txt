@@ -5,3 +5,9 @@ Version 1.0
 Fecha 29/07/2026
 
 // Se creo el archivo inicial para la practica
+
+
+Version 1.1
+Fecha 29/07/2026
+
+** Se agrego una nueva entrada a la Bitacora, para el registro.
