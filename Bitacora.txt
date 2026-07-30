@@ -55,3 +55,9 @@ Requisitos funcionales
 Requisitos no funcionales
 
 El sistema deberá garantizar seguridad en el acceso mediante autenticación de usuarios, disponibilidad del servicio, tiempos de respuesta adecuados, respaldo periódico de la información y compatibilidad con navegadores web modernos.
+
+7. Version 2.0
+
+Tecnologías utilizadas
+
+El sistema será desarrollado utilizando una arquitectura web. Se propone el uso de una base de datos SQL Server, lenguaje C#, servicios web para la integración con entidades tributarias y Git como herramienta para el control de versiones del proyecto.
