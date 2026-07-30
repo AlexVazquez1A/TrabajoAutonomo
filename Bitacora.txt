@@ -1,13 +1,24 @@
 Bitacora de cambios
 
-Version 1.0
+1.- Version 1.0
 
 Fecha 29/07/2026
 
-// Se creo el archivo inicial para la practica
+Se creo el archivo inicial para la practica
 
 
-Version 1.1
+2. Version 1.1
 Fecha 29/07/2026
 
-** Se agrego una nueva entrada a la Bitacora, para el registro.
+Se agrego una nueva entrada a la Bitacora, para el registro.
+
+3. Version 1.2
+
+Proyecto Facturacio Electronica
+
+
+Un sistema de facturación electrónica permite automatizar la emisión, recepción y administración de comprobantes electrónicos, facilitando el cumplimiento de las obligaciones tributarias de una empresa. Este tipo de sistema reduce el uso de documentos físicos, mejora el control de la información y optimiza los procesos administrativos.
+
+El desarrollo de un sistema de facturación requiere un análisis detallado de las necesidades del negocio, la definición de los requisitos funcionales y no funcionales, así como el diseño de una arquitectura que garantice seguridad, disponibilidad y escalabilidad. Además, es importante integrar servicios externos, como las plataformas de validación tributaria y los mecanismos de firma electrónica.
+
+Para gestionar el desarrollo del proyecto es recomendable utilizar metodologías ágiles, como Scrum, permitiendo organizar el trabajo mediante historias de usuario, tareas y sprints. De esta manera, el equipo puede entregar funcionalidades de forma incremental, recibir retroalimentación constante y adaptar el sistema a nuevos requerimientos. El resultado es una solución confiable que mejora la eficiencia operativa y la calidad del servicio ofrecido a los clientes.
