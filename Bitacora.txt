@@ -76,3 +76,8 @@ La implementación de módulos especializados como clientes, productos, facturac
 La aplicación de metodologías ágiles, específicamente Scrum, facilitará la organización del equipo, la entrega incremental de funcionalidades y la adaptación continua a los requerimientos del negocio. Por último, el uso de Git como herramienta de control de versiones garantiza el seguimiento de cada cambio realizado en el proyecto, promoviendo un desarrollo colaborativo y ordenado.
 
 En conjunto, este sistema no solo mejorará la eficiencia operativa de la empresa, sino que también elevará la calidad del servicio ofrecido a los clientes, posicionando a la organización de manera favorable en un entorno competitivo y digitalizado.
+
+
+10. Beneficios del sistema
+
+La implementación de un sistema de facturación electrónica permite reducir tiempos de procesamiento, minimizar errores en la emisión de comprobantes y mejorar el control de la información. Además, facilita la integración con otras aplicaciones empresariales y contribuye al cumplimiento de las normativas tributarias vigentes.
