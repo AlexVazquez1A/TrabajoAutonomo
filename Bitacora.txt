@@ -1,20 +1,20 @@
-Bitacora de cambios
+Bitácora de cambios
 
-1.- Version 1.0
+1.- Versión 1.0
 
 Fecha 29/07/2026
 
 Se creo el archivo inicial para la practica
 
 
-2. Version 1.1
+2. Versión 1.1
 Fecha 29/07/2026
 
-Se agrego una nueva entrada a la Bitacora, para el registro.
+Se agrego una nueva entrada a la Bitácora, para el registro.
 
-3. Version 1.2
+3. Versión 1.2
 
-Proyecto Facturacio Electronica
+Proyecto Facturación Electrónica
 
 
 Un sistema de facturación electrónica permite automatizar la emisión, recepción y administración de comprobantes electrónicos, facilitando el cumplimiento de las obligaciones tributarias de una empresa. Este tipo de sistema reduce el uso de documentos físicos, mejora el control de la información y optimiza los procesos administrativos.
@@ -23,12 +23,12 @@ El desarrollo de un sistema de facturación requiere un análisis detallado de l
 
 Para gestionar el desarrollo del proyecto es recomendable utilizar metodologías ágiles, como Scrum, permitiendo organizar el trabajo mediante historias de usuario, tareas y sprints. De esta manera, el equipo puede entregar funcionalidades de forma incremental, recibir retroalimentación constante y adaptar el sistema a nuevos requerimientos. El resultado es una solución confiable que mejora la eficiencia operativa y la calidad del servicio ofrecido a los clientes.
 
-4. Version 1.3
+4. Versión 1.3
 Módulos principales del sistema
 
 El sistema estará compuesto por diferentes módulos que permitirán administrar las operaciones de la empresa. Entre ellos se encuentran el módulo de clientes, productos, facturación, reportes, usuarios y configuración. Cada módulo estará integrado para garantizar un flujo eficiente de la información y facilitar la administración de los procesos comerciales.
 
-5. Version 1.4
+5. Versión 1.4
 Historias de usuario
 
 HU-001
@@ -40,7 +40,7 @@ Como administrador, quiero administrar el catálogo de productos para mantener a
 HU-003
 Como supervisor, quiero consultar reportes de ventas para analizar el desempeño comercial de la empresa.
 
-5. Version 1.5
+5. Versión 1.5
 Requisitos funcionales
 
 - Registrar clientes.
@@ -50,24 +50,29 @@ Requisitos funcionales
 - Consultar historial de comprobantes.
 - Emitir reportes de ventas.
 
-6. Version 1.6
+6. Versión 1.6
 
 Requisitos no funcionales
 
 El sistema deberá garantizar seguridad en el acceso mediante autenticación de usuarios, disponibilidad del servicio, tiempos de respuesta adecuados, respaldo periódico de la información y compatibilidad con navegadores web modernos.
 
-7. Version 2.0
+7. Versión 2.0
 
 Tecnologías utilizadas
 
 El sistema será desarrollado utilizando una arquitectura web. Se propone el uso de una base de datos SQL Server, lenguaje C#, servicios web para la integración con entidades tributarias y Git como herramienta para el control de versiones del proyecto.
 
-8. Version 2.1
+8. Versión 2.1
 
 Metodología de desarrollo
 
 Para organizar el desarrollo del proyecto se utilizará Scrum, definiendo un Product Backlog, Sprint Backlog y reuniones periódicas para dar seguimiento a las tareas. Esta metodología permitirá entregar funcionalidades de manera incremental y recibir retroalimentación continua.
 
 9. Conclusiones
+El desarrollo de un sistema de facturación electrónica representa una solución integral para la automatización de procesos comerciales y el cumplimiento de obligaciones tributarias. A lo largo de este proyecto, se definieron los requisitos funcionales y no funcionales necesarios para garantizar un sistema robusto, seguro y escalable.
 
-El desarrollo de un sistema de facturación electrónica requiere una adecuada planificación, definición de requisitos y uso de herramientas de control de versiones como Git y GitHub. La aplicación de metodologías ágiles facilita el trabajo colaborativo y permite obtener un producto de mayor calidad, adaptándose a las necesidades del cliente durante todo el proceso de desarrollo.
+La implementación de módulos especializados como clientes, productos, facturación, reportes, usuarios y configuración permitirá una gestión eficiente de la información y un flujo de trabajo optimizado. Asimismo, el uso de tecnologías como C#, SQL Server y servicios web asegura una arquitectura moderna y compatible con las plataformas de validación gubernamentales.
+
+La aplicación de metodologías ágiles, específicamente Scrum, facilitará la organización del equipo, la entrega incremental de funcionalidades y la adaptación continua a los requerimientos del negocio. Por último, el uso de Git como herramienta de control de versiones garantiza el seguimiento de cada cambio realizado en el proyecto, promoviendo un desarrollo colaborativo y ordenado.
+
+En conjunto, este sistema no solo mejorará la eficiencia operativa de la empresa, sino que también elevará la calidad del servicio ofrecido a los clientes, posicionando a la organización de manera favorable en un entorno competitivo y digitalizado.
