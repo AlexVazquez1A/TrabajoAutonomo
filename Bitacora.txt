@@ -22,3 +22,8 @@ Un sistema de facturación electrónica permite automatizar la emisión, recepci
 El desarrollo de un sistema de facturación requiere un análisis detallado de las necesidades del negocio, la definición de los requisitos funcionales y no funcionales, así como el diseño de una arquitectura que garantice seguridad, disponibilidad y escalabilidad. Además, es importante integrar servicios externos, como las plataformas de validación tributaria y los mecanismos de firma electrónica.
 
 Para gestionar el desarrollo del proyecto es recomendable utilizar metodologías ágiles, como Scrum, permitiendo organizar el trabajo mediante historias de usuario, tareas y sprints. De esta manera, el equipo puede entregar funcionalidades de forma incremental, recibir retroalimentación constante y adaptar el sistema a nuevos requerimientos. El resultado es una solución confiable que mejora la eficiencia operativa y la calidad del servicio ofrecido a los clientes.
+
+4. Version 1.3
+Módulos principales del sistema
+
+El sistema estará compuesto por diferentes módulos que permitirán administrar las operaciones de la empresa. Entre ellos se encuentran el módulo de clientes, productos, facturación, reportes, usuarios y configuración. Cada módulo estará integrado para garantizar un flujo eficiente de la información y facilitar la administración de los procesos comerciales.
