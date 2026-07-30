@@ -39,3 +39,13 @@ Como administrador, quiero administrar el catálogo de productos para mantener a
 
 HU-003
 Como supervisor, quiero consultar reportes de ventas para analizar el desempeño comercial de la empresa.
+
+5. Version 1.5
+Requisitos funcionales
+
+- Registrar clientes.
+- Administrar productos.
+- Emitir facturas electrónicas.
+- Generar notas de crédito.
+- Consultar historial de comprobantes.
+- Emitir reportes de ventas.
