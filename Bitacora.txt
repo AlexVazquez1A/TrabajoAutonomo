@@ -49,3 +49,9 @@ Requisitos funcionales
 - Generar notas de crédito.
 - Consultar historial de comprobantes.
 - Emitir reportes de ventas.
+
+6. Version 1.6
+
+Requisitos no funcionales
+
+El sistema deberá garantizar seguridad en el acceso mediante autenticación de usuarios, disponibilidad del servicio, tiempos de respuesta adecuados, respaldo periódico de la información y compatibilidad con navegadores web modernos.
