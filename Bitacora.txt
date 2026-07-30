@@ -67,3 +67,7 @@ El sistema será desarrollado utilizando una arquitectura web. Se propone el uso
 Metodología de desarrollo
 
 Para organizar el desarrollo del proyecto se utilizará Scrum, definiendo un Product Backlog, Sprint Backlog y reuniones periódicas para dar seguimiento a las tareas. Esta metodología permitirá entregar funcionalidades de manera incremental y recibir retroalimentación continua.
+
+9. Conclusiones
+
+El desarrollo de un sistema de facturación electrónica requiere una adecuada planificación, definición de requisitos y uso de herramientas de control de versiones como Git y GitHub. La aplicación de metodologías ágiles facilita el trabajo colaborativo y permite obtener un producto de mayor calidad, adaptándose a las necesidades del cliente durante todo el proceso de desarrollo.
