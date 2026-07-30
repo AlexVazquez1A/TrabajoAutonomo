@@ -27,3 +27,15 @@ Para gestionar el desarrollo del proyecto es recomendable utilizar metodologías
 Módulos principales del sistema
 
 El sistema estará compuesto por diferentes módulos que permitirán administrar las operaciones de la empresa. Entre ellos se encuentran el módulo de clientes, productos, facturación, reportes, usuarios y configuración. Cada módulo estará integrado para garantizar un flujo eficiente de la información y facilitar la administración de los procesos comerciales.
+
+5. Version 1.4
+Historias de usuario
+
+HU-001
+Como cajero, quiero registrar una factura electrónica para generar el comprobante de manera rápida y segura.
+
+HU-002
+Como administrador, quiero administrar el catálogo de productos para mantener actualizada la información disponible para la venta.
+
+HU-003
+Como supervisor, quiero consultar reportes de ventas para analizar el desempeño comercial de la empresa.
